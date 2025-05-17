@@ -1,5 +1,22 @@
 # greenwood-library-website
 
+We’ll simulate the collaborative workflow for Morgan and Jamie using Git and GitHub, following the provided objectives and tasks. This step-by-step guide will cover setting up the repository, creating the initial website files, simulating Morgan’s and Jamie’s contributions, and merging their changes via pull requests, all while ensuring a smooth collaborative process.
+
+Prerequisites
+
+Git Installed: Ensure Git is installed (download from [git-scm.com](https://) if needed).
+
+GitHub Account: You have a GitHub account and are logged in.
+
+Visual Studio Code (VS Code): Installed for editing files (download from [code.visualstudio.com](https://) if needed).
+
+GitHub Authentication: Set up authentication via SSH, personal access token, or GitHub CLI.
+
+Terminal: Use a command-line interface (e.g., Command Prompt/PowerShell on Windows, Terminal on macOS/Linux).
+
+
+
+
 ## Step-by-Step Simulation
 
 ### Step 1: Set Up the GitHub Repository
